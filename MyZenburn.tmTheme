@@ -407,6 +407,18 @@
 			</dict>
 		</dict>
 
+		<dict>
+			<key>name</key>
+			<string>markup bullets</string>
+			<key>scope</key>
+			<string>markup.list.unnumbered.bullet | markup.list.numbered.bullet | markup.heading punctuation.definition.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
 	</array>
 	<key>uuid</key>
 	<string>8D4988B9-ADD8-436F-B388-BC1360F8504B</string>
